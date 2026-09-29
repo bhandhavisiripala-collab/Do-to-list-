@@ -1,0 +1,6 @@
+{
+  "name": "DO IT FOR ME",
+  "description": "Tell me what you need done. I'll figure out the rest. An AI agent that plans, acts, tracks, and adapts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
